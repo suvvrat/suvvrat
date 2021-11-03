@@ -16,11 +16,10 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=suvvrat&show_icons=true&theme=midnight-purple&hide_border=true" />
-</a>
+</a> |
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=suvvrat&show_icons=true&theme=midnight-purple&layout=compact&hide_border=true" />
 </a>
-<br><br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=suvvrat&theme=midnight-purple&hide_border=true" />
 </a>

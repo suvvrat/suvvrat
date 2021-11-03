@@ -18,8 +18,5 @@
 
 Stats | Languages
 ------| ----------
-![Suvrat's GitHub stats](https://github-readme-stats.vercel.app/api?username=suvvrat&show_icons=true&theme=midnight-purple&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) | [![Suvrat's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=suvvrat&show_icons=true&theme=midnight-purple&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
+[![Suvrat's GitHub stats](https://github-readme-stats.vercel.app/api?username=suvvrat&show_icons=true&theme=midnight-purple&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) | [![Suvrat's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=suvvrat&show_icons=true&theme=midnight-purple&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Suvrat's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=suvvrat&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)

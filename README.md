@@ -5,5 +5,7 @@
 - 📫 How to reach me > https://suvratverma.netlify.app/ -->
 
 [![Suvrat's GitHub stats](https://github-readme-stats.vercel.app/api?username=suvvrat)](https://github.com/anuraghazra/github-readme-stats)
+![Suvrat's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+
 
 

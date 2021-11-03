@@ -15,7 +15,7 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=suvvrat&show_icons=true&theme=midnight-purplehide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=suvvrat&show_icons=true&theme=midnight-purple&hide_border=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=suvvrat&show_icons=true&theme=midnight-purple&layout=compact" />

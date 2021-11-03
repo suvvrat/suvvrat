@@ -18,9 +18,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=suvvrat&show_icons=true&theme=midnight-purple" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="(https://github-readme-stats.vercel.app/api/top-langs?username=suvvrat&show_icons=true&theme=midnight-purple&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=suvvrat&show_icons=true&theme=midnight-purple&layout=compact" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=suvvrat&theme=midnight-purple
-" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=suvvrat&theme=midnight-purple" />
 </a>

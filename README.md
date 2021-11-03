@@ -7,10 +7,10 @@
 **My Stats**
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=suvvrat&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=suvvrat&show_icons=true&theme=buefy&hide_border=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=suvvrat&show_icons=true&theme=midnight-purple&layout=compact&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=suvvrat&show_icons=true&theme=buefy&layout=compact&hide_border=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=suvvrat&theme=midnight-purple&hide_border=true" />
